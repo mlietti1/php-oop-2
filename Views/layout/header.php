@@ -1,3 +1,3 @@
-<header class="container p-5">
-  <h1>Everything for you pet</h1>
+<header class="p-3">
+  <h1>My Pet Shop</h1>
 </header>
