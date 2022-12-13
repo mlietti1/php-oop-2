@@ -24,4 +24,15 @@ header {
 
 .price {
   color: red;
+  font-weight: 600;
+}
+
+footer {
+  color: white;
+  background-color: black;
+}
+
+.card-body span {
+  display: inline-block;
+  margin-right: 5px;
 }
